@@ -1,0 +1,16 @@
+numpy
+pandas
+Scikit-learn
+flask
+flask-cors
+gunicorn
+PyYAML
+dill
+pymongo[srv]
+dnspython
+xgboost
+optuna
+evidently
+imblearn
+mlflow
+-e .
